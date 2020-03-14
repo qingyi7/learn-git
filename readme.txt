@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git branch learning is easy AND quick.
 add merge.
+bug fix.
 
